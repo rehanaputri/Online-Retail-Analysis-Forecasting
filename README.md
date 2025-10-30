@@ -1,12 +1,12 @@
 # Online-Retail-Analysis-Forecasting
-	Analisis data transaksi online retail, RFM segmentation, dan perbandingan forecasting (ARIMA vs Prophet)
+Analisis data transaksi online retail, RFM segmentation, dan perbandingan forecasting (ARIMA vs Prophet)
 
 # 1. Judul Proyek : 
-	Analisis dan Prediksi Penjualan Online Retail untuk Optimalisasi Strategi Bisnis
+Analisis dan Prediksi Penjualan Online Retail untuk Optimalisasi Strategi Bisnis
 
 
 # 2. Deskripsi Singkat : 
-	Proyek ini bertujuan untuk menganalisis data transaksi penjualan dari sebuah toko ritel online berbasis Inggris yang beroperasi antara tahun 2010–2011. Analisis dilakukan untuk memahami pola perilaku pelanggan, tren penjualan produk, serta melakukan peramalan (forecasting) pendapatan masa depan guna mendukung pengambilan keputusan bisnis yang lebih strategis.
+Proyek ini bertujuan untuk menganalisis data transaksi penjualan dari sebuah toko ritel online berbasis Inggris yang beroperasi antara tahun 2010–2011. Analisis dilakukan untuk memahami pola perilaku pelanggan, tren penjualan produk, serta melakukan peramalan (forecasting) pendapatan masa depan guna mendukung pengambilan keputusan bisnis yang lebih strategis.
 
 
 # 3. Rumusan Masalah : 
