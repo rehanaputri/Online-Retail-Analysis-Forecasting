@@ -1,2 +1,2 @@
 # Online-Retail-Analysis-Forecasting
-nalisis data transaksi online retail, RFM segmentation, dan perbandingan forecasting (ARIMA vs Prophet)
+Analisis data transaksi online retail, RFM segmentation, dan perbandingan forecasting (ARIMA vs Prophet)
