@@ -64,7 +64,3 @@ Proyek ini bertujuan untuk menganalisis data transaksi penjualan dari sebuah tok
 		• Analisis negara penyumbang revenue terbanyak
 	• Laporan Analisis Bisnis berisi insight penting dan rekomendasi
 	• Model Forecasting untuk memprediksi revenue 3–6 bulan ke depan
-
-
-
-<img width="1136" height="2371" alt="image" src="https://github.com/user-attachments/assets/a29f386c-0d10-44ed-ae76-7ef0b39a102f" />
